@@ -21,9 +21,29 @@
  * Base structure
  */
 
+ body {
+  background-color: #FAFAF5;
+  }
 
-body {
-  background-color: #f5f5f5;
+
+
+.jumbotron {
+
+  text-align: center;
+  background-color: #000;
+  height: 350px;
+
+  h1 {
+  color: white;
+  padding-top: 20px;
+  font-family: 'Pacifico','Raleway', 'Helvetica Neue', Helvetica;
+
 }
-  
 
+p {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+  }
+
+
+}
