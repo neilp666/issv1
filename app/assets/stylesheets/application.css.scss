@@ -11,5 +11,19 @@
  * file per style scope.
  *
  */
+ @import url(//fonts.googleapis.com/css?family=Pacifico|Open+Sans:300);
+ @import url(//fonts.googleapis.com/css?family=Raleway:400,200,600,700,800,500,300,100);
  @import "bootstrap-sprockets";
  @import "bootstrap";
+ @import "font-awesome";
+
+/*
+ * Base structure
+ */
+
+
+body {
+  background-color: #f5f5f5;
+}
+  
+
